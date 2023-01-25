@@ -1,0 +1,8 @@
+C:\Users\usuario\source\repos\CreateTables\CreateTables\bin\Debug\CreateTables.exe.config
+C:\Users\usuario\source\repos\CreateTables\CreateTables\bin\Debug\CreateTables.exe
+C:\Users\usuario\source\repos\CreateTables\CreateTables\bin\Debug\CreateTables.pdb
+C:\Users\usuario\source\repos\CreateTables\CreateTables\obj\Debug\CreateTables.csproj.AssemblyReference.cache
+C:\Users\usuario\source\repos\CreateTables\CreateTables\obj\Debug\CreateTables.csproj.SuggestedBindingRedirects.cache
+C:\Users\usuario\source\repos\CreateTables\CreateTables\obj\Debug\CreateTables.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\CreateTables\CreateTables\obj\Debug\CreateTables.exe
+C:\Users\usuario\source\repos\CreateTables\CreateTables\obj\Debug\CreateTables.pdb

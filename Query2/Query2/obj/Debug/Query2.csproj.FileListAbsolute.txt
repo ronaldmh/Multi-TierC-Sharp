@@ -1,0 +1,3 @@
+C:\Users\usuario\source\repos\Query2\Query2\obj\Debug\Query2.csproj.AssemblyReference.cache
+C:\Users\usuario\source\repos\Query2\Query2\obj\Debug\Query2.csproj.SuggestedBindingRedirects.cache
+C:\Users\usuario\source\repos\Query2\Query2\obj\Debug\Query2.csproj.CoreCompileInputs.cache

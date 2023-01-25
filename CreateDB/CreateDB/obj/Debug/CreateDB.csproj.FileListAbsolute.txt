@@ -1,0 +1,8 @@
+C:\Users\usuario\source\repos\CreateDB\CreateDB\bin\Debug\CreateDB.exe.config
+C:\Users\usuario\source\repos\CreateDB\CreateDB\bin\Debug\CreateDB.exe
+C:\Users\usuario\source\repos\CreateDB\CreateDB\bin\Debug\CreateDB.pdb
+C:\Users\usuario\source\repos\CreateDB\CreateDB\obj\Debug\CreateDB.csproj.AssemblyReference.cache
+C:\Users\usuario\source\repos\CreateDB\CreateDB\obj\Debug\CreateDB.csproj.SuggestedBindingRedirects.cache
+C:\Users\usuario\source\repos\CreateDB\CreateDB\obj\Debug\CreateDB.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\CreateDB\CreateDB\obj\Debug\CreateDB.exe
+C:\Users\usuario\source\repos\CreateDB\CreateDB\obj\Debug\CreateDB.pdb

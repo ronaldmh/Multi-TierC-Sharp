@@ -1,0 +1,8 @@
+C:\Users\usuario\source\repos\DropDatabase\DropDatabase\bin\Debug\DropDatabase.exe.config
+C:\Users\usuario\source\repos\DropDatabase\DropDatabase\bin\Debug\DropDatabase.exe
+C:\Users\usuario\source\repos\DropDatabase\DropDatabase\bin\Debug\DropDatabase.pdb
+C:\Users\usuario\source\repos\DropDatabase\DropDatabase\obj\Debug\DropDatabase.csproj.AssemblyReference.cache
+C:\Users\usuario\source\repos\DropDatabase\DropDatabase\obj\Debug\DropDatabase.csproj.SuggestedBindingRedirects.cache
+C:\Users\usuario\source\repos\DropDatabase\DropDatabase\obj\Debug\DropDatabase.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\DropDatabase\DropDatabase\obj\Debug\DropDatabase.exe
+C:\Users\usuario\source\repos\DropDatabase\DropDatabase\obj\Debug\DropDatabase.pdb

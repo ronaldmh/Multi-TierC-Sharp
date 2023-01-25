@@ -1,0 +1,12 @@
+C:\Users\usuario\source\repos\MultiTierApp-Cs\ExampleMultiproject\Project1\Project2\bin\Release\Project2.exe.config
+C:\Users\usuario\source\repos\MultiTierApp-Cs\ExampleMultiproject\Project1\Project2\bin\Release\Project2.exe
+C:\Users\usuario\source\repos\MultiTierApp-Cs\ExampleMultiproject\Project1\Project2\bin\Release\Project2.pdb
+C:\Users\usuario\source\repos\MultiTierApp-Cs\ExampleMultiproject\Project1\Project2\bin\Release\Project1.exe
+C:\Users\usuario\source\repos\MultiTierApp-Cs\ExampleMultiproject\Project1\Project2\bin\Release\Project1.pdb
+C:\Users\usuario\source\repos\MultiTierApp-Cs\ExampleMultiproject\Project1\Project2\bin\Release\Project1.exe.config
+C:\Users\usuario\source\repos\MultiTierApp-Cs\ExampleMultiproject\Project1\Project2\obj\Release\Project2.csproj.AssemblyReference.cache
+C:\Users\usuario\source\repos\MultiTierApp-Cs\ExampleMultiproject\Project1\Project2\obj\Release\Project2.csproj.SuggestedBindingRedirects.cache
+C:\Users\usuario\source\repos\MultiTierApp-Cs\ExampleMultiproject\Project1\Project2\obj\Release\Project2.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\MultiTierApp-Cs\ExampleMultiproject\Project1\Project2\obj\Release\Project2.csproj.CopyComplete
+C:\Users\usuario\source\repos\MultiTierApp-Cs\ExampleMultiproject\Project1\Project2\obj\Release\Project2.exe
+C:\Users\usuario\source\repos\MultiTierApp-Cs\ExampleMultiproject\Project1\Project2\obj\Release\Project2.pdb

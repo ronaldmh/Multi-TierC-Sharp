@@ -1,0 +1,8 @@
+C:\Users\usuario\source\repos\DropTable\DropTable\bin\Debug\DropTable.exe.config
+C:\Users\usuario\source\repos\DropTable\DropTable\bin\Debug\DropTable.exe
+C:\Users\usuario\source\repos\DropTable\DropTable\bin\Debug\DropTable.pdb
+C:\Users\usuario\source\repos\DropTable\DropTable\obj\Debug\DropTable.csproj.AssemblyReference.cache
+C:\Users\usuario\source\repos\DropTable\DropTable\obj\Debug\DropTable.csproj.SuggestedBindingRedirects.cache
+C:\Users\usuario\source\repos\DropTable\DropTable\obj\Debug\DropTable.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\DropTable\DropTable\obj\Debug\DropTable.exe
+C:\Users\usuario\source\repos\DropTable\DropTable\obj\Debug\DropTable.pdb
